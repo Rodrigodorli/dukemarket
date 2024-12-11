@@ -1,0 +1,4 @@
+br\com\rodrigodorli\dukemarket\app\DukeMarketApp.class
+connection\MySQLConnection.class
+br\com\rodrigodorli\dukemarket\bean\Produto.class
+br\com\rodrigodorli\dukemarket\dao\ProdutoDAO.class
